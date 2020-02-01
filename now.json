@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "scope": "alheimsins",
   "builds": [
     {
       "src": "/index.js",
