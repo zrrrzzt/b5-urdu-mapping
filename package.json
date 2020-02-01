@@ -4,7 +4,9 @@
   "description": "Solution for making https://www.minhaaj.com/big-fiver-personality-in-urdu compatible with modules from Alheimsins",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard && npm audit",
+    "standard-fix": "standard --fix",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm i"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,11 @@
   },
   "homepage": "https://github.com/zrrrzzt/b5-urdu-mapping#readme",
   "devDependencies": {
+    "axios": "0.19.2",
+    "cheerio": "1.0.0-rc.3",
     "standard": "14.3.1"
+  },
+  "dependencies": {
+    "@alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r": "3.0.2"
   }
 }
