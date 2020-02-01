@@ -1,0 +1,23 @@
+{
+  "name": "b5-urdu-mapping",
+  "version": "1.0.0",
+  "description": "Solution for making https://www.minhaaj.com/big-fiver-personality-in-urdu compatible with modules from Alheimsins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrrrzzt/b5-urdu-mapping.git"
+  },
+  "keywords": [],
+  "author": "Geir Gåsodden <geir.gasodden@pythonia.no> (https://github.com/zrrrzzt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zrrrzzt/b5-urdu-mapping/issues"
+  },
+  "homepage": "https://github.com/zrrrzzt/b5-urdu-mapping#readme",
+  "devDependencies": {
+    "standard": "14.3.1"
+  }
+}
