@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "@alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r": "3.0.5",
-    "@alheimsins/bigfive-calculate-score": "2.0.3"
+    "@alheimsins/bigfive-calculate-score": "2.0.4"
   }
 }
