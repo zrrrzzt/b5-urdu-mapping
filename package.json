@@ -1,6 +1,6 @@
 {
   "name": "b5-urdu-mapping",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Solution for making https://www.minhaaj.com/big-fiver-personality-in-urdu compatible with modules from Alheimsins",
   "main": "index.js",
   "scripts": {
