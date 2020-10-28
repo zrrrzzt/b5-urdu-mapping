@@ -22,7 +22,7 @@
   "devDependencies": {
     "axios": "0.20.0",
     "cheerio": "1.0.0-rc.3",
-    "standard": "14.3.4"
+    "standard": "15.0.1"
   },
   "dependencies": {
     "@alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r": "4.0.0",
