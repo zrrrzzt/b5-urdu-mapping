@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/zrrrzzt/b5-urdu-mapping#readme",
   "devDependencies": {
-    "axios": "0.27.2",
+    "axios": "1.6.0",
     "cheerio": "1.0.0-rc.12",
     "standard": "17.0.0"
   },
